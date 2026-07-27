@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1657
+slug  : the-schmitt-trigger
+seal  : 91e0dabdb6e78a00eff2a8eec4090fe02d5a125cf62d00bc3a9e567c1cd9b82c
+prev  : 6ddef2550710c37dc269a62421803854a0d027297cf40eb1fd06a1a4983a0bc0
+link  : f8b136bd1fa52ea9ab1d44a5c502d911165a8da1d7fd06e9754e6d0da11c6ff1
+head  : 64c41a7f983448d5f60467ae1a1df495a4dc174efa6dae2236713af1d75fea9d
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
